@@ -1,0 +1,244 @@
+Desc_fly_2: The ability to jump over hexes (even those with obstacles) to reach a far away hex
+Name_fly_2: Flying 2
+
+Desc_fly_3: The ability to jump over hexes (even those with obstacles) to reach a far away hex
+Name_fly_3: Flying 3
+
+Desc_fly_4: The ability to jump over hexes (even those with obstacles) to reach a far away hex
+Name_fly_4: Flying 4
+
+Desc_fly_5: The ability to jump over hexes (even those with obstacles) to reach a far away hex
+Name_fly_5: Flying 5
+
+Desc_mountainWalk: Legion may enter Mountain hexes
+Name_mountainWalk: Mountain Walk
+
+Desc_SwampWalk: Legion may enter Swamp hexes
+Name_SwampWalk: Swamp Walk
+
+Desc_ChasmWalk: Legion may enter Chasm hexes
+Name_ChasmWalk: Chasm Walk
+
+Desc_charge: Add +3 to melee damage during the first round of challenges
+Name_charge: Charge
+
+Desc_rage: Add +d6 to melee damage during the second round of challenges if legion has lost HP in combat
+Name_rage: Rage
+
+Desc_meleedam_d4: Add +d4 to melee damage 
+Name_meleedam_d4: Fierce
+
+Desc_rangeddam_d4: Add +d4 to ranged damage 
+Name_rangeddam_d4: Black Lightning
+
+Desc_infernaldam_d4: Add +d4 to infernal damage 
+Name_infernaldam_d4: Flame Aura
+
+Desc_rangedRes_2: 2 points of ranged damage are negated whenever the owner loses a Ranged challenge in combat
+Name_rangedRes_2: Ranged Resist 2
+
+Desc_meleeRes_2: 2 points of melee damage are negated whenever the owner loses a Melee challenge in combat
+Name_meleeRes_2: Melee Resist 2
+
+Desc_infernalRes_2: 2 points of infernal damage are negated whenever the owner loses an Infernal challenge in combat
+Name_infernalRes_2: Infernal Resist 2
+
+Desc_rangedRes_3: 3 points of ranged damage are negated whenever the owner loses a Ranged challenge in combat
+Name_rangedRes_3: Ranged Resist 3
+
+Desc_meleeRes_3: 3 points of melee damage are negated whenever the owner loses a Melee challenge in combat
+Name_meleeRes_3: Melee Resist 3
+
+Desc_infernalRes_3: 3 points of infernal damage are negated whenever the owner loses an Infernal challenge in combat
+Name_infernalRes_3: Infernal Resist 3
+
+Desc_rangedRes_4: 4 points of ranged damage are negated whenever the owner loses a Ranged challenge in combat
+Name_rangedRes_4: Ranged Resist 4
+
+Desc_meleeRes_4: 4 points of melee damage are negated whenever the owner loses a Melee challenge in combat
+Name_meleeRes_4: Melee Resist 4
+
+Desc_infernalRes_4: 4 points of infernal damage are negated whenever the owner loses an Infernal challenge in combat
+Name_infernalRes_4: Infernal Resist 4
+
+Desc_rangedRes_5: 5 points of ranged damage are negated whenever the owner loses a Ranged challenge in combat
+Name_rangedRes_5: Ranged Resist 5
+
+Desc_meleeRes_5: 5 points of melee damage are negated whenever the owner loses a Melee challenge in combat
+Name_meleeRes_5: Melee Resist 5
+
+Desc_infernalRes_5: 5 points of infernal damage are negated whenever the owner loses an Infernal challenge in combat
+Name_infernalRes_5: Infernal Resist 5
+
+Desc_rangedRes_d6: Up to d6 points of ranged damage are negated whenever the owner loses a Ranged challenge in combat
+Name_rangedRes_d6: Ranged Resist d6
+
+Desc_meleeRes_d6: Up to d6 points of melee damage are negated whenever the owner loses a Melee challenge in combat
+Name_meleeRes_d6: Melee Resist d6
+
+Desc_infernalRes_d6: Up to d6 points of infernal damage are negated whenever the owner loses an Infernal challenge in combat
+Name_infernalRes_d6: Infernal Resist d6
+
+Desc_blackRing: There can only ever be one holder of the Order of the Black Ring.  Fear travels before and despair follows in its wake.
+Name_blackRing: Black Ring
+
+Desc_infernalcrusade: The Order of the Infernal Crusade is awarded to any Legion that returns from an Unholy Crusade against Heaven's Ramparts.
+Name_infernalcrusade: Infernal Crusade
+
+Desc_rangedVul_2: 2 points of ranged damage are added whenever the owner loses a Ranged challenge in combat
+Name_rangedVul_2: Ranged Vul. 2
+
+Desc_meleeVul_2: 2 points of melee damage are added whenever the owner loses a Melee challenge in combat
+Name_meleeVul_2: Melee Vul. 2
+
+Desc_infernalVul_2: 2 points of infernal damage are added whenever the owner loses an Infernal challenge in combat
+Name_infernalVul_2: Infernal Vul. 2
+
+Desc_rangedVul_3: 3 points of ranged damage are added whenever the owner loses a Ranged challenge in combat
+Name_rangedVul_3: Ranged Vul. 3
+
+Desc_meleeVul_3: 3 points of melee damage are added whenever the owner loses a Melee challenge in combat
+Name_meleeVul_3: Melee Vul. 3
+
+Desc_infernalVul_3: 3 points of infernal damage are added whenever the owner loses an Infernal challenge in combat
+Name_infernalVul_3: Infernal Vul. 3
+
+Desc_rangedVul_4: 4 points of ranged damage are added whenever the owner loses a Ranged challenge in combat
+Name_rangedVul_4: Ranged Vul. 4
+
+Desc_meleeVul_4: 4 points of melee damage are added whenever the owner loses a Melee challenge in combat
+Name_meleeVul_4: Melee Vul. 4
+
+Desc_infernalVul_4: 4 points of infernal damage are added whenever the owner loses an Infernal challenge in combat
+Name_infernalVul_4: Infernal Vul. 4
+
+Desc_rangedVul_5: 5 points of ranged damage are added whenever the owner loses a Ranged challenge in combat
+Name_rangedVul_5: Ranged Vul. 5
+
+Desc_meleeVul_5: 5 points of melee damage are added whenever the owner loses a Melee challenge in combat
+Name_meleeVul_5: Melee Vul. 5
+
+Desc_infernalVul_5: 5 points of infernal damage are added whenever the owner loses an Infernal challenge in combat
+Name_infernalVul_5: Infernal Vul. 5
+
+Desc_rangedvul_d6: Up to d6 points of ranged damage are added whenever the owner loses a Ranged challenge in combat
+Name_rangedvul_d6: Ranged Vul. d6
+
+Desc_meleevul_d6: Up to d6 points of melee damage are added whenever the owner loses a Melee challenge in combat
+Name_meleevul_d6: Melee Vul. d6
+
+Desc_infernalvul_d6: Up to d6 points of infernal damage are added whenever the owner loses an Infernal challenge in combat
+Name_infernalvul_d6: Infernal Vul. d6
+
+Desc_collector: After a victory in battle, the chance to recover enemy artifacts is doubled
+Name_collector: Recovery Specialists
+
+Desc_battleround_1: Any battle that this legion is involved in gets an additional round of combat
+Name_battleround_1: +1 Combat Round
+
+Desc_battleround_M1: Any battle that this legion is involved in gets one less round of combat
+Name_battleround_M1: -1 Combat Round
+
+Desc_MeleeLast: During battle the melee round occurs last
+Name_MeleeLast: Melee Last
+
+Desc_RangedLast: During battle the ranged round occurs last
+Name_RangedLast: Ranged Last
+
+Desc_MeleeTwice: During battle the melee round occurs twice
+Name_MeleeTwice: Melee Twice
+
+Desc_ranged_2: Add +2 to the ranged attribute of the legion or place of power commanded by this Praetor
+Name_ranged_2: Ranged +2
+
+Desc_melee_2: Add +2 to the melee attribute of the legion or place of power commanded by this Praetor
+Name_melee_2: Melee +2
+
+Desc_infernal_2: Add +2 to the infernal attribute of the legion or place of power commanded by this Praetor
+Name_infernal_2: Infernal +2
+
+Desc_level_2: Add +2 to the level of the legion
+Name_level_2: Level Roll +2
+
+Desc_loyalty_2: Add +2 to unit's loyalty
+Name_loyalty_2: Loyalty +2
+
+Desc_ranged_3: Add +3 to the ranged attribute of the legion
+Name_ranged_3: Ranged +3
+
+Desc_melee_3: Add +3 to the melee attribute of the legion
+Name_melee_3: Melee +3
+
+Desc_infernal_3: Add +3 to the infernal attribute of the legion
+Name_infernal_3: Infernal +3
+
+Desc_level_3: Add +3 to the level of the legion
+Name_level_3: Level Roll +3
+
+Desc_loyalty_3: Add +3 to unit's loyalty
+Name_loyalty_3: Loyalty +3
+
+Desc_ranged_4: Add +4 to the ranged attribute of the legion
+Name_ranged_4: Ranged +4
+
+Desc_melee_4: Add +4 to the melee attribute of the legion
+Name_melee_4: Melee +4
+
+Desc_infernal_4: Add +4 to the infernal attribute of the legion
+Name_infernal_4: Infernal +4
+
+Desc_level_4: Add +4 to the level of the legion
+Name_level_4: Level Roll +4
+
+Desc_loyalty_4: Add +4 to unit's loyalty
+Name_loyalty_4: Loyalty +4
+
+Desc_ranged_5: Add +5 to the ranged attribute of the legion
+Name_ranged_5: Ranged +5
+
+Desc_melee_5: Add +5 to the melee attribute of the legion
+Name_melee_5: Melee +5
+
+Desc_infernal_5: Add +5 to the infernal attribute of the legion
+Name_infernal_5: Infernal +5
+
+Desc_ranged_6: Add +6 to the ranged attribute of the legion
+Name_ranged_6: Ranged +6
+
+Desc_melee_6: Add +6 to the melee attribute of the legion
+Name_melee_6: Melee +6
+
+Desc_infernal_6: Add +6 to the infernal attribute of the legion
+Name_infernal_6: Infernal +6
+
+Desc_envyL: Every non-excommunicated, non-blood vassal/lord opponent loses 2 Prestige Points each turn
+Name_envyL: Demon Envy
+
+Desc_DevourPoP: When The Devourer survives a battle and defeats a Place of Power (except Pandemonium), the Place of Power must roll a d6 and add its level. If the number is less than 10 then it is destroyed and removed from the map
+Name_DevourPoP: Devour
+
+Desc_GiftPan: When this legion is purchased in the Infernal Bazaar, on the following turn the controlling player has the option to send the legion to Pandemonium as a gift or choose one of his own PoP's increasing its combat stats by the legion's values. The legion is then removed from the game
+Name_GiftPan: Reinforce
+
+Desc_BattleSupport2: When attached to a legion, this artifact allows that legion to lend battle support to friendly legions fighting up to two hexes away regardless of the intervening terrain
+Name_BattleSupport2: Extended Support
+
+Desc_iresonance: Half the infernal attribute is added to any ranged or melee damage that is inflicted
+Name_iresonance: Resonance
+
+Desc_dismiss: When melee damage is dealt to an enemy, the enemy has all attachments immediately sent to its Archfiend's vault
+Name_dismiss: Dismissal
+
+Desc_ambition: When attached to a legion, this artifact ensures that it is promoted a level after any victorious battle where it inflicts more hp damage than its opponent
+Name_ambition: Ambition
+
+Desc_CurseWrath_5: The Archfiend who controls this legion has a +5% chance of receiving a Curse of Wrath manuscript any time there is a battle involving a legion in hell
+Name_CurseWrath_5: +5% Curse of Wrath
+
+Desc_CurseDeceit_5: The Archfiend who controls this legion has a +5% chance of receiving a Curse of Deceit manuscript any time a Deceit ritual is performed
+Name_CurseDeceit_5: +5% Curse of Deceit
+
+Desc_CurseProphecy_5: The Archfiend who controls this legion has a +5% chance of receiving a Curse of Prophecy manuscript any time a Prophecy ritual is performed
+Name_CurseProphecy_5: +5% Curse of Prophecy
+
+EOF
