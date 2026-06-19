@@ -1,3 +1,5 @@
+-- This is not intended to be a part of the bug fix and UI improvement update --
+
 == INSTALLATION AND USE ==
 
 1. Make backs up of the following files from the folder where your Solium Infernum is installed:
